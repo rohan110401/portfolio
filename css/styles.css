@@ -12,9 +12,9 @@ p{
     margin-top: 10px;
 }
 
-.ed-q{
-    margin-bottom: 60px;
-    padding-bottom: 30px;
+.q{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
 }
 /*Headings*/
 
@@ -205,4 +205,34 @@ p{
 
 .footer-link:hover{
   color: black;
+}
+
+#intern-link{
+  padding: 10% 10%;
+  
+  font-size: 1.5rem;
+  margin: 0 10px 20px 10px;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+#intern-link:hover{
+  color: #11999E;
+}
+.intern-des{
+  padding: 1% 1%;
+  font-size: 1.2rem;
+}
+.dev{
+  padding: 2% 1%;
+  font-weight: bolder;
+}
+#intern-head{
+  padding-top: 1rem;
+}
+#aw-head{
+  padding-top: 3rem;
+}
+#last{
+  padding-bottom: 1rem;
 }
